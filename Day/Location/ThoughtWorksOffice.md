@@ -27,3 +27,9 @@ Small Room - Second track - Han
 Hackathon - Qin
 
 ![Hackathon - Qin](Day/Location/Qin.jpg)
+
+### About ToughtWorks
+
+We are a software company and a community of passionate, purpose-led individuals. We think disruptively to deliver technology to address our clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change.
+
+Wherever we are in the world, ThoughtWorkers share the same cultural characteristics and imperatives. We come to work as ourselves. We enjoy each other’s company. We value honesty and transparency. Appearances and backgrounds aren’t important to us; ideas and doing the right thing are. We abhor and reject discrimination and inequality and promote diversity in all its forms. We proudly, passionately and actively strive to make both ThoughtWorks and our industry more reflective and inclusive of the society that we serve.
