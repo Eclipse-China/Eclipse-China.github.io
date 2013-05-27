@@ -65,15 +65,6 @@ title: Exclipse China
 
 <p><a href="https://github.com/Eclipse-China">GitHub organization</a></p>
 
-<p>
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</p>
-
 <a href="http://wiki.eclipse.org/Eclipse_Day_China">
 	<img alt="Languages under Eclipse" src="Pictures/Languages-and-technologies-under-eclipse-4.png" /></a>
 
@@ -83,6 +74,14 @@ title: Exclipse China
 <a href="http://wiki.eclipse.org/Eclipse_Day_China">
 	<img alt="Poster small" src="Day/Poster/Eclipse-Day-China-01-small.jpg" /></a>
 
+<p>
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</p>
 
       </section>
 
