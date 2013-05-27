@@ -18,7 +18,7 @@ ThoughtWorks, Rm 1105 Guohua Plaza, No.3 Dongzhimen South St, Dongcheng District
 
 Big Room - Main track - East Palace
 
-![Big Room - Main track - East Palace](east-palace.jpg)
+![Big Room - Main track - East Palace](East-Palace.jpg)
 
 Small Room - Second track - Han
 
