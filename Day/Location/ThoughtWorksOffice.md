@@ -1,3 +1,7 @@
+---
+layout: eclipse-china
+title: Eclipse Day China - Location
+---
 
 ## Location 场地
 
