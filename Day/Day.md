@@ -3,8 +3,12 @@ layout: eclipse-china
 title: Eclipse Day China - Satellite site - Main page
 ---
 
-## test
+## Eclipse Day China
 
-### test3
+### Organizers
 
 ![Funshion-logo-1.jpg](../Pictures/Funshion-logo-1.jpg)
+
+### Location
+
+[ThoughtWorks Beijing Office](/Day/Location/ThoughtWorksOffice)
