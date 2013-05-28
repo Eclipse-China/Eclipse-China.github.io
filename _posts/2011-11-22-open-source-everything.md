@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: eclipse-china
 title: Open Source (Almost) Everything
 ---
 
