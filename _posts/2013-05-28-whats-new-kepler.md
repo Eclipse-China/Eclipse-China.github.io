@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Source (Almost) Everything
+title: What's new in Kepler
 ---
 
 {{ page.title }}
