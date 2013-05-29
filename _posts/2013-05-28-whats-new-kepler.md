@@ -8,7 +8,8 @@ title: What's new in Kepler
 
 # Kepler
 
-Kepler RC1 (release candidate) is already available for download at http://www.eclipse.org/downloads/index-developer.php
+Kepler RC1 (release candidate) is already available for download
+ at [http://www.eclipse.org/downloads/index-developer.php](http://www.eclipse.org/downloads/index-developer.php)
 
 ## What's new
 
