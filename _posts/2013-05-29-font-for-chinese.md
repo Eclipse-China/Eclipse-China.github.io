@@ -1,6 +1,6 @@
 ---
 layout: eclipse-china
-title: Eclipse Day China got listing on Eclipse Events page
+title: Font for Chinese in Eclipse
 ---
 
 {{ page.title }}
