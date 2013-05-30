@@ -11,6 +11,7 @@ ThoughtWorks, Rm 1105 Guohua Plaza, No.3 Dongzhimen South St, Dongcheng District
 
 北京市东城区东直门南大街3号国华投资大厦1105室ThoughtWorks （地铁东直门站D口） 
 
+<a href="map-dongzhimen.png"><img alt="map地图 - click to see larger" src="map-dongzhimen-mini.png" /></a>
 
 ![Guohua-Plaza-20090915042949182.jpg](Guohua-Plaza-20090915042949182.jpg)
 
