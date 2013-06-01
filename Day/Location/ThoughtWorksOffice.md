@@ -38,3 +38,14 @@ Hackathon - Qin
 We are a software company and a community of passionate, purpose-led individuals. We think disruptively to deliver technology to address our clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change.
 
 Wherever we are in the world, ThoughtWorkers share the same cultural characteristics and imperatives. We come to work as ourselves. We enjoy each other’s company. We value honesty and transparency. Appearances and backgrounds aren’t important to us; ideas and doing the right thing are. We abhor and reject discrimination and inequality and promote diversity in all its forms. We proudly, passionately and actively strive to make both ThoughtWorks and our industry more reflective and inclusive of the society that we serve.
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41377881-1', 'eclipse-china.github.io');
+  ga('send', 'pageview');
+
+</script>
