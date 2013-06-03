@@ -19,7 +19,7 @@ title: Eclipse Day China - Satellite site - Main page
 
 ### Date and Time 时间
 
-http://time.is/compare/0900_29_June_2013_in_Beijing/CET/London/New_York
+[http://time.is/compare/0900_29_June_2013_in_Beijing/CET/London/New_York](http://time.is/compare/0900_29_June_2013_in_Beijing/CET/London/New_York)
 
 ### Agenda
 
