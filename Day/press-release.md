@@ -3,7 +3,7 @@ layout: eclipse-china
 title: Eclipse Day China - Satellite site - Press Release
 ---
 
-Email interview by Paul Pischoff
+Email interview by Paul Bischoff
 
 ><b>Q:</b> As concisely as you can, explain what your event is, what Eclipse is, and why their readers should care.
 
