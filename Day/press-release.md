@@ -1,3 +1,7 @@
+---
+layout: eclipse-china
+title: Eclipse Day China - Satellite site - Press Release
+---
 
 Email interview by Paul Pischoff
 
