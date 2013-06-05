@@ -1,7 +1,7 @@
 
 Email interview by Paul Pischoff
 
-> As concisely as you can, explain what your event is, what eclipse is, and why their readers should care.
+> As concisely as you can, explain what your event is, what Eclipse is, and why their readers should care.
 
 [Eclipse Day China](http://wiki.eclipse.org/Eclipse_Day_China) is the first [Eclipse Day](wiki.eclipse.org/Eclipse_Day) in China. 
 It is full day activity for Eclipse enthusiast and Eclipse developers. The event has 21 topics in 2 tracks,
@@ -9,7 +9,7 @@ It is full day activity for Eclipse enthusiast and Eclipse developers. The event
 
 Eclipse Foundation is non-profits organization that acts as the steward of Eclipse open source community. 
 There are [227 Eclipse project](http://projects.eclipse.org/list-of-projects).
-The most well-known of the Eclipse projects are the Eclipse platform, a multilanguage software development environment and the Eclipse IDE.
+The most well-known of the Eclipse projects are the Eclipse platform, and the Eclipse IDE a multilanguage software development environment.
 Less known are Jetty web server, Hudson CI server, Orion in browser IDE and software developement tools for Java, JavaScript, PHP, C++. 
 
 Eclipse Foundation has 191 member companies and institutions [*](http://www.eclipse.org/membership/showAllMembers.php).

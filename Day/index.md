@@ -34,3 +34,4 @@ title: Eclipse Day China - Satellite site - Main page
 
 [Eclipse Day China——面向中国开发人员和Eclipse爱好者的免费活动](http://user.qzone.qq.com/1521656858/blog/1370401338)	
 	
+[press-release](press-release)	
