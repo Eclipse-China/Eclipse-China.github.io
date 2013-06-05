@@ -30,5 +30,7 @@ title: Eclipse Day China - Satellite site - Main page
 14) [.ppt How to use Eclipse to write and debug Groovy scripts on a live web application, Giampiero Granatella ManyDesigns](Presentations\Granatella\How to use Eclipse Day Beijing - Granatella.ppt)
 	(It references 2 videos)
 
-	
+### In media
+
+[Eclipse Day China——面向中国开发人员和Eclipse爱好者的免费活动](http://user.qzone.qq.com/1521656858/blog/1370401338)	
 	
