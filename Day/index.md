@@ -5,6 +5,8 @@ title: Eclipse Day China - Satellite site - Main page
 
 ## Eclipse Day China
 
+[press-release](press-release)	
+
 <p>北京 2013年6月29日 （周六）full day </p>
 <p><a href="http://wiki.eclipse.org/Eclipse_Day_China">official page Eclipse Day China</a></p>
 <p><a href="hackathon/hackathon_beijing_2013.html">Eclipse编程马拉松活动（Eclipse Hackathon）</a></p>
@@ -37,5 +39,3 @@ See official agenda at [wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers](
 ### In media
 
 [Eclipse Day China——面向中国开发人员和Eclipse爱好者的免费活动](http://user.qzone.qq.com/1521656858/blog/1370401338)	
-	
-[press-release](press-release)	
