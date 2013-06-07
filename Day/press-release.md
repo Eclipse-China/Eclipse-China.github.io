@@ -13,7 +13,7 @@ It is full day activity for Eclipse enthusiast and Eclipse developers. The event
 
 Eclipse Foundation is non-profits organization that acts as the steward of Eclipse open source community. 
 There are [227 Eclipse projects](http://projects.eclipse.org/list-of-projects).
-The most well-known of the Eclipse projects are the Eclipse platform, and the Eclipse IDE a multilanguage software development environment.
+The most well-known of the Eclipse projects are the Eclipse platform, and the Eclipse IDE, a multilanguage software development environment.
 Less known are Jetty web server, Hudson CI server, Orion in browser IDE and software developement tools for Java, JavaScript, PHP, C++. 
 
 Eclipse Foundation has 191 member companies and institutions [*](http://www.eclipse.org/membership/showAllMembers.php).
