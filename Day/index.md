@@ -11,11 +11,9 @@ title: Eclipse Day China - Satellite site - Main page
 
 ### Organizers 组织者
 
-![Actuate_logo_SM.jpg](../Pictures/Actuate_logo_SM.jpg)
+![Actuate_logo_SM.jpg](../Pictures/Actuate_logo_SM.jpg)  ![TW-lg-small.png](../Pictures/TW-lg-small.png)  ![Funshion-logo-294.PNG](../Pictures/Funshion-logo-294.PNG)
 
-![TW-lg-small.png](../Pictures/TW-lg-small.png)
-
-![Funshion-logo-294.PNG](../Pictures/Funshion-logo-294.PNG)
+![JVM-and-Node-2-micro.png](../Pictures/JVM-and-Node-2-micro.png)  ![Jin-logo-micro.jpg](../Pictures/Jin-logo-micro.jpg)
 
 ### Location 场地
 
