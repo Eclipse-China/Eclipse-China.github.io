@@ -5,7 +5,7 @@ title: Eclipse Day China - Satellite site - Main page
 
 ## Eclipse Day China
 
-[press-release](press-release)	
+[Press-Release](press-release)	
 
 <p>北京 2013年6月29日 （周六）full day </p>
 <p><a href="http://wiki.eclipse.org/Eclipse_Day_China">official page Eclipse Day China</a></p>
@@ -32,6 +32,8 @@ See official agenda at [wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers](
 ![Agenda-01.PNG](Agenda-01.PNG)
 
 ### Presentations materials
+
+![Languages-and-technologies-under-eclipse-5-tiny.jpg](../Pictures/Languages-and-technologies-under-eclipse-5-tiny.jpg)
 
 14) [.ppt How to use Eclipse to write and debug Groovy scripts on a live web application, Giampiero Granatella
  ManyDesigns](Presentations/Granatella/How to use Eclipse Day Beijing - Granatella.ppt) (It references 2 videos, not available here)

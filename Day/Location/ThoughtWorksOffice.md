@@ -3,6 +3,8 @@ layout: eclipse-china
 title: Eclipse Day China - Location
 ---
 
+<p><b>Back to <a href="/Day/">Day page</a> | 回<a href="/Day/">Day网页</a></b></p>
+
 ## Location 场地
 
 ThoughtWorks Beijing office
