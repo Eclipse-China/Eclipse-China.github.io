@@ -28,10 +28,15 @@ like IBM Rational, SAP NetWeaver Developer Studio, Talend Open Studio, SpringSou
 
 Eclipse community around the world has democamps in June & November, Eclipse Days in different countries and industries,
  and annual EclipseCon conference in US and Europe. Eclipse has millions of users around the world.
-Eclipse 4.2.2 IDE for Java EE Developers, for example, was [downloaded](http://www.eclipse.org/downloads/) more than 2,369,651 times since release in March.
+Eclipse 4.2.2 IDE for Java EE Developers, for example, was [downloaded](http://www.eclipse.org/downloads/) more than 2,402,827 times since release in March.
 
 ><b>Q:</b> What will make the story I write exciting to our readers? 
 
 It is the first time Eclipse Day event is organized in China. The event has guests and speakers from IBM, Oracle, Pivotal, Actuate, ThoughtWorks, Funshion Online.
 There are English & Chinese sessions, that guests can select.
 
+#### Used resources:
+
+[Interview with Mike Milinkovich about the past, present and future of Eclipse](http://www.infoq.com/interviews/Milinkovich-past-present-future-Eclipse)  
+[Wikipedia](http://en.wikipedia.org/wiki/Eclipse_Foundation)  
+[Eclipse main site](http://www.eclipse.org/)
