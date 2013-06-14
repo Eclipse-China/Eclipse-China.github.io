@@ -29,7 +29,7 @@ title: Eclipse Day China - Satellite site - Main page
 
 ### Agenda
 
-[Topics voting](topics-voting)
+[Topics voting 主题投票](topics-voting)
 
 See official agenda at [wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers](http://wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers)
 

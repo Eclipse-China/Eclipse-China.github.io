@@ -1,11 +1,11 @@
 ---
 layout: eclipse-china
-title: Eclipse Day China - Satellite site - Topics voting
+title: Eclipse Day China - Satellite site - Topics voting 主题投票
 ---
 
 <p><b>Back to <a href="/Day/">Day page</a> | 回<a href="/Day/">Day网页</a></b></p>
 
-### Topics voting
+### Topics voting 主题投票
 
 This page is helping us to decide to wee need to move time slots or room assignment.
 
