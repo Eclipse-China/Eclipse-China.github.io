@@ -58,6 +58,11 @@ Eclipse日活动，这是第一次在中国举办。 本次活动的嘉宾和演
 
 #### Used resources:
 
-[Interview with Mike Milinkovich about the past, present and future of Eclipse](http://www.infoq.com/interviews/Milinkovich-past-present-future-Eclipse)  
+[InfoQ EclipseCon Interview with Mike Milinkovich about the past, present and future of Eclipse](http://www.infoq.com/interviews/Milinkovich-past-present-future-Eclipse)  
 [Wikipedia](http://en.wikipedia.org/wiki/Eclipse_Foundation)  
 [Eclipse main site](http://www.eclipse.org/)
+
+#### Post scriptum resources
+
+[2013 Annual Eclipse Community Report](http://www.eclipse.org/org/foundation/reports/annual_report.php)
+[Results of Eclipse Community Survey 2013](http://eclipse.org/org/press-release/20130612_eclipsesurvey2013.php)
