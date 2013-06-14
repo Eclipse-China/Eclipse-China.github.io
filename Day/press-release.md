@@ -35,6 +35,27 @@ Eclipse 4.2.2 IDE for Java EE Developers, for example, was [downloaded](http://w
 It is the first time Eclipse Day event is organized in China. The event has guests and speakers from IBM, Oracle, Pivotal, Actuate, ThoughtWorks, Funshion Online.
 There are English & Chinese sessions, that guests can select.
 
+### 电子邮件采访（媒体记者 保罗·比肖夫）
+
+>    问：请简单介绍下，Eclipse是什么，以及开发者为什么需要关注。 
+
+Eclipse中国日，是首次在中国举行的Eclipse。该活动面向Eclipse的爱好者，并进行一整天。本次活动将分成2个会场，包含21个主题。同时还有一个并行的Eclipse黑客马拉松。
+
+Eclipse基金会是非营利组织，代表Eclipse开源社区，维护227个项目。 最知名的Eclipse项目Eclipse平台和Eclipse IDE，一个多语言的软件开发环境。 其项目还包括，Jetty Web服务器，Hudson CI服务器，框架vert.x，Orion和Java，JavaScript，PHP，C++的IDE。
+
+Eclipse基金会有191个成员公司和机构。战略成员包括Actuate, Bredex, CA, Google, IBM, Innoopract, Itemis, Obeo, Oracle, SAP, Talend。
+
+使用Eclipse作为平台中的开源项目和商业产品的有IBM Rational，SAP NetWeaver Developer Studio， SpringSource STS等。
+
+>    问：举例来说，为什么有必要举行一个单独的关于Eclipse的活动？ 真有那么重要？ 
+
+从6月到11月,Eclipse社区在世界各地举行Democamps和Eclipse日，并在美国和欧洲每年的EclipseCon会议。 Eclipse有以百万计的世界各地的用户, 4.2.2版本的Eclipse IDE for Java EE自3月发布被下载超过2,402,827次。
+
+>    问：什么会让我的读者对我所写的故事感兴趣？ 
+
+Eclipse日活动，这是第一次在中国举办。 本次活动的嘉宾和演讲者来自IBM, Oracle, Pivotal, Actuate, ThoughtWorks, Funshion Online等。有英文和中文的演讲，参加者有很多选择。 
+
+
 #### Used resources:
 
 [Interview with Mike Milinkovich about the past, present and future of Eclipse](http://www.infoq.com/interviews/Milinkovich-past-present-future-Eclipse)  
