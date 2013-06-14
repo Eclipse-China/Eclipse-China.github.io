@@ -19,7 +19,7 @@ There is no minimum requirement.
 We don't really need much money (only snacks, best presenter & topics awards, maybe some lucky draw for 50$ present, etc)
 Help as much as you can. **The most important is that you show support for Eclipse.**
 
-We still have 2-3 presentation slots left. Welcome if you have something to say Eclipse Community in China!
+We still have 2-3 presentation slots left. Welcome if you have something to say to Eclipse Community in China!
 
 2013/6/14  
 Eclipse Day organizers
