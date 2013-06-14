@@ -16,6 +16,4 @@ We have 22 topics (Talks) + Hackathon. Please no more new entries. Just comment 
 在这里可以投票哪一个主题是最有意思的。 
 最喜爱主题应该是在大的会议室讲的，可能长一点儿时间。  
 我们有22主题（Talk）加编程马拉松活动。 
-请不要新的entry。主题下面可以讨论。 
-
-用<a class="vote-up" title="赞成票" data-action="upvote" href="#"> … </a>。请按。
+请不要新的entry。主题下面用“**回复**”可以讨论。 
