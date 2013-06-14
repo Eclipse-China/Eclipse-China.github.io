@@ -21,5 +21,15 @@ Help as much as you can. **The most important is that you show support for Eclip
 
 We still have 2-3 presentation slots left. Welcome if you have something to say to Eclipse Community in China!
 
+募集赞助！
+
+距离Eclipse Day China活动还有2周时间，我们已经有99名注册人员， 22名演讲人，5家合作主办公司，2名志愿者， 我们需要更多的赞助.
+
+近一半的Eclipse成员在中国， 或者拥有庞大的中国客户。 请尽您所能支持中国Eclipse活动。
+
+赞助没有金额限制，我们目前只是需要小额赞助（例如：午餐、饮料、奖品-最佳演讲者&最佳演讲内容，或者幸运抽奖）。任何金额的赞助对我们来说都是非常重要的， 代表着您对Eclipse的支持。
+
+我们还有2-3个演讲席位， 如果您有兴趣， 欢迎您的加入！ 
+
 2013/6/14  
 Eclipse Day organizers
