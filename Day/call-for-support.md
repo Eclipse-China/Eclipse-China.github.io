@@ -5,13 +5,13 @@ title: Eclipse Day China - Satellite site - Call for support
 
 <p><b>Back to <a href="/Day/">Day page</a> | 回<a href="/Day/">Day网页</a></b></p>
 
-### Call for Support
+### Call for Support 募集赞助
 
 Eclipse Day China is 2 weeks away. We have venue, 99 registered, 22 presenters, 5 organizers and 2 volunteers... But no sponsors (except for Eclipse itself).
 
 [See Sponsors section in Eclipse wiki](http://wiki.eclipse.org/Eclipse_Day_China#Sponsors_.E8.B5.9E.E5.8A.A9)
 
-*This is call for support! 募集赞助！* 
+*This is call for support!* 
 
 Half of Eclipse members are in China or have big Chinese clients. Please support Chinese Eclipse event as you do elsewhere.
 

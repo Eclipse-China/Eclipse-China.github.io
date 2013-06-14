@@ -7,7 +7,7 @@ title: Eclipse Day China - Satellite site - Topics voting 主题投票
 
 ### Topics voting 主题投票
 
-This page is helping us to decide to wee need to move time slots or room assignment.
+This page is helping us to decide how we need to move time slots or room allocation.
 
 Use vote up ( /\ arrow up ) to indicate that you like the topic.
 
