@@ -21,6 +21,8 @@ Help as much as you can. **The most important is that you show support for Eclip
 
 We still have 2-3 presentation slots left. Welcome if you have something to say to Eclipse Community in China!
 
+And finally, it will be great joy if we find venue sponsor to hold up to 200-300 software developers and architects !
+
 募集赞助！
 
 距离Eclipse Day China活动还有2周时间，我们已经有99名注册人员， 22名演讲人，5家合作主办公司，2名志愿者， 我们需要更多的赞助.
