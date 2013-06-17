@@ -45,3 +45,12 @@ See official agenda at [wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers](
 ### In media
 
 [Eclipse Day China——面向中国开发人员和Eclipse爱好者的免费活动](http://user.qzone.qq.com/1521656858/blog/1370401338)	
+
+### Entertainment
+
+> Do you know good karaoke club near-by that we can reserve (without deposit) and recommend to developers?
+
+One is called ["糖果"](http://www.dianping.com/shop/513037), which locates in the north of Yonghegong bridge; 
+Another is ["钱柜"](http://www.dianping.com/shop/2047324), on the south of Yonghegong bridge.
+
+Both are great :)
