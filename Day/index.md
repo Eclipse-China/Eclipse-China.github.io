@@ -49,6 +49,7 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
 
 - [Eclipse Day China——面向中国开发人员和Eclipse爱好者的免费活动](http://user.qzone.qq.com/1521656858/blog/1370401338)	
 - [安讯将于6月底分享开源BIRT相关知识](http://www.jifang360.com/news/2013617/n409649290.html)
+- [BIRT Exchange Forum > Community Blog> Community BIRT> Eclipse Day China](http://www.birt-exchange.org/org/forum/index.php/blog/6/entry-492-eclipse-day-china/)
 
 ### Entertainment
 
