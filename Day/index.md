@@ -11,7 +11,6 @@ title: Eclipse Day China - Satellite site - Main page
 
 <p>北京 2013年6月29日 （周六）full day </p>
 <p><a href="http://wiki.eclipse.org/Eclipse_Day_China">official page Eclipse Day China</a></p>
-<p><a href="hackathon/hackathon_beijing_2013.html">Eclipse编程马拉松活动（Eclipse Hackathon）</a></p>
 
 ### Organizers 组织者
 
@@ -28,6 +27,8 @@ title: Eclipse Day China - Satellite site - Main page
 [http://time.is/compare/0900_29_June_2013_in_Beijing/CET/London/New_York](http://time.is/compare/0900_29_June_2013_in_Beijing/CET/London/New_York)
 
 ### Agenda
+
+<p><a href="hackathon/hackathon_beijing_2013.html">Eclipse编程马拉松活动（Eclipse Hackathon）</a></p>
 
 [Topics voting 主题投票](topics-voting)
 
@@ -53,8 +54,10 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
 
 ### Entertainment
 
+- Possibly [mini-concert of "One Shot" band](https://www.dropbox.com/s/ysm39hi7b8k6af8/blue-suede-shoes-small.mov),
+ we need guitar amplifier & drum set in ThoughtWorks office (contact organizer if you can help) 
+- Karaoke 卡拉OK
 > Do you know good karaoke club near-by that we can reserve (without deposit) and recommend to developers?
-
 One is called ["糖果"](http://www.dianping.com/shop/513037), which locates in the north of Yonghegong bridge; 
 Another is ["钱柜"](http://www.dianping.com/shop/2047324), on the south of Yonghegong bridge.
 
