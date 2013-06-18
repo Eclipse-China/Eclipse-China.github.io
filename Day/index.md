@@ -58,7 +58,8 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
  we need guitar amplifier & drum set in ThoughtWorks office (contact organizer if you can help) 
 - Karaoke 卡拉OK
 > Do you know good karaoke club near-by that we can reserve (without deposit) and recommend to developers?
-One is called ["糖果"](http://www.dianping.com/shop/513037), which locates in the north of Yonghegong bridge; 
-Another is ["钱柜"](http://www.dianping.com/shop/2047324), on the south of Yonghegong bridge.
+
+One is called [糖果](http://www.dianping.com/shop/513037), which locates in the north of Yonghegong bridge; 
+Another is [钱柜](http://www.dianping.com/shop/2047324), on the south of Yonghegong bridge.
 
 Both are great :)
