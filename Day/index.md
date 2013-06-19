@@ -44,7 +44,7 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
 ![Languages-and-technologies-under-eclipse-5-tiny.jpg](../Pictures/Languages-and-technologies-under-eclipse-5-tiny.jpg)
 
 8) Talk 8 [Implementing complex graphical editors with model-driven technologies by Andreas Graf](Presentations/Andreas_Graf/Eclipse_DemoCamp_Beijing_2013.pdf),
- [screen-cast](Presentations/Andreas_Graf/GeneratedEditor.mp4)
+ [screen-cast](Presentations/Andreas_Graf/GeneratedEditor.mp4)  
 14) [.ppt How to use Eclipse to write and debug Groovy scripts on a live web application, Giampiero Granatella
  ManyDesigns](Presentations/Granatella/How to use Eclipse Day Beijing - Granatella.ppt) (It references 2 videos, not available here)
 
