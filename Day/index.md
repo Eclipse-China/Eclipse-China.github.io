@@ -29,6 +29,8 @@ title: Eclipse Day China - Satellite site - Main page
 
 ![JVM-and-Node-2-micro.png](../Pictures/JVM-and-Node-2-micro.png)  ![Jin-logo-micro.jpg](../Pictures/Jin-logo-micro.jpg)
 
+欢迎欢迎一起组着这个活动
+
 ### Location 场地
 
 [ThoughtWorks Beijing Office](/Day/Location/ThoughtWorksOffice)
@@ -73,6 +75,11 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
 > Q: Do you know good karaoke club near-by that we can reserve (without deposit) and recommend to developers?
 
 A: One is called [糖果](http://www.dianping.com/shop/513037), which locates in the north of Yonghegong bridge; 
-Another is [钱柜](http://www.dianping.com/shop/2047324), on the south of Yonghegong bridge.
-
+Another is [钱柜](http://www.dianping.com/shop/2047324), on the south of Yonghegong bridge.  
 Both are great :)
+
+### Contacts 联系方式
+
+Eclipse中国QQ群 321486747 
+
+Paul Verest +86 187 01029146, [email](mailto:paul.verest@live.com?subject=Eclipse-Day-China&body=I_would_like_to_support_Eclipse_Day_China_event)
