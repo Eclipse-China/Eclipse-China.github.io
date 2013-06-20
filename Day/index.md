@@ -12,8 +12,8 @@ title: Eclipse Day China - Satellite site - Main page
 <p>北京 2013年6月29日 （周六）full day </p>
 <p><a href="http://wiki.eclipse.org/Eclipse_Day_China">official page Eclipse Day China</a></p>
 
-<p>The event is free, please register ASAP to reserve your seat. 此次活动免费，因席位有限，请务必尽早注册预留席位。<p>
-<p>Register on | 注册在<p>
+<p>The event is free, please register ASAP to reserve your seat. 此次活动免费，因席位有限，请务必尽早注册预留席位。</p>
+<p>Register on | 注册在
 	<ul>
 		<li><a href="http://event.weibo.com/897258">微博活动网页/897258</a></li>
 		<li><a href="http://democampbeijing2013.eventbrite.com">http://democampbeijing2013.eventbrite.com</a> 要报名 
