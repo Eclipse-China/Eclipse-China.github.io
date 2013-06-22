@@ -34,7 +34,7 @@ title: Eclipse Day China - Satellite site - Main page
 
 See official agenda at [wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers](http://wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers)
 
-![Agenda-02.PNG](Agenda-02.PNG)
+![Agenda-03.PNG](Agenda-03.PNG)
 
 Lucky draw prize ![Blackberry_Q10_Black-small.png](../Pictures/Blackberry_Q10_Black-small.png) (for those registered before June 18th)
 is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/Blackberry_Logo_230px.svg.png)
@@ -43,6 +43,7 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
 
 ![Languages-and-technologies-under-eclipse-5-tiny.jpg](../Pictures/Languages-and-technologies-under-eclipse-5-tiny.jpg)
 
+5) Talk 5 [5. Eclipse Java IDE Tips and Tricks (How to work more effectively)](Presentations/Rabea_Gransberger/EclipseTippsAndTricks_NoNotes.pptx) by Rabea Gransberger  
 8) Talk 8 [Implementing complex graphical editors with model-driven technologies by Andreas Graf](Presentations/Andreas_Graf/Eclipse_DemoCamp_Beijing_2013.pdf),
  [screen-cast](Presentations/Andreas_Graf/GeneratedEditor.mp4)  
 14) [.ppt How to use Eclipse to write and debug Groovy scripts on a live web application, Giampiero Granatella
