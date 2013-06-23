@@ -41,7 +41,7 @@ title: Eclipse Day China - Satellite site - Main page
 
 ### Agenda 议程
 
-<p><a href="hackathon/hackathon_beijing_2013.html">Eclipse编程马拉松活动（Eclipse Hackathon）</a></p>
+<p><a href="/hackathon/hackathon_beijing_2013.html">Eclipse编程马拉松活动（Eclipse Hackathon）</a></p>
 
 [Topics voting 主题投票](topics-voting)
 
