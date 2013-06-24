@@ -61,12 +61,16 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
  [screen-cast](Presentations/Andreas_Graf/GeneratedEditor.mp4)  
 14) [.ppt How to use Eclipse to write and debug Groovy scripts on a live web application, Giampiero Granatella
  ManyDesigns](Presentations/Granatella/How to use Eclipse Day Beijing - Granatella.ppt) (It references 2 videos, not available here)
+18) Ekke will demo the new Eclipse Momentics IDE: live hacking – no slides. 
 
 ### In media 媒体
 
 - [Eclipse Day China——面向中国开发人员和Eclipse爱好者的免费活动](http://user.qzone.qq.com/1521656858/blog/1370401338)	
 - [安讯将于6月底分享开源BIRT相关知识](http://www.jifang360.com/news/2013617/n409649290.html)
 - [BIRT Exchange Forum > Community Blog> Community BIRT> Eclipse Day China](http://www.birt-exchange.org/org/forum/index.php/blog/6/entry-492-eclipse-day-china/)
+- [Warm up for Eclipse Day and Hackathon Beijing, 2013](http://jmj-eclipse.blogspot.com/2013/06/warm-up-for-eclipse-day-and-hackathon.html),
+ read on [Planet Eclipse](http://planeteclipse.org/planet/)
+- [what we have done last week (Eclipse Momentics | Cascades workshop)](http://ekkescorner.wordpress.com/2013/06/18/what-we-have-done-last-week-eclipse-momentics-cascades-workshop/)  
 
 ### Entertainment 娱乐
 
