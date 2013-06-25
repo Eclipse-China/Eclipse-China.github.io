@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Working with Maven in Eclipse</title>
+
+  <base href="http://lab.hakim.se/reveal-js/" target="_blank">
+
+  <meta name="description" content="A presentation about m2e and m2e-wtp">
+  <meta name="author" content="Fred Bricon">
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <link rel="stylesheet" href="css/reveal.min.css">
+  <link rel="stylesheet" href="css/theme/default.css" id="theme">
+
+  <!-- For syntax highlighting -->
+  <link rel="stylesheet" href="lib/css/zenburn.css">
+
+  <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+  <script>
+  document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+  </script>
+
+<!--[if lt IE 9]>
+<script src="lib/js/html5shiv.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+    <div class="reveal">
+
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+            <section>
+                <h2>Working with Maven in Eclipse</h2>
+                <p>
+                    <small><a href="#">Fred Bricon</a> / <a href="http://twitter.com/fbricon">@fbricon</a></small>
+                </p>
+                <p>
+                </p>
+                <p>
+                  <small>Eclipse Day Beijing 2013</small>
+              </p>
+          </section>
+          <section>
+           <h2>Fred Bricon is ...</h2>
+           <ul>
+              <li class="fragment">Developer at Red Hat JBoss</li>
+              <li class="fragment">Working on JBoss Tools and Developer Studio</li>
+              <li class="fragment">Committer on m2e</li>
+              <li class="fragment">Project Lead of m2e-wtp</li>
+          </ul>             
+      </section>
+
+      <section>
+         <section>
+          <h2>About m2e</h2>
+          <p>
+            m2e is the official Maven Integration for Eclipse plugin          
+            <ul>
+              <li class="fragment">integrates Apache Maven to Eclipse's incremental build</li>
+              <li class="fragment">provides tight JDT integration</li>
+              <li class="fragment">is a Platform/Framework for others to build upon</li>
+            </ul>
+         </p>
+       </section>
+       <section>
+         <h2>m2e features</h2>
+           <p>
+            <ul>
+              <li class="fragment">Wizards for importing or creating projects</li>
+              <li class="fragment">Provides a powerful POM editor</li>
+              <li class="fragment">Launch configurations (to run maven)</li>              
+              <li class="fragment">Automatic download of java sources</li>              
+              <li class="fragment">Access Maven repository indexes</li>
+            </ul>
+           </p>
+        </section>
+
+        <section>
+          <h2>Challenges</h2>
+          <ul>
+            <li class="fragment">
+              <p>Eclipse Platform/IDE has oustanding limitations</p>
+              <ul>
+                <li class="fragment">single compilation classpath(test==main)</li>
+                <li class="fragment">no nested project support</li>
+            </ul>
+        </li>
+        <li class="fragment">
+          <p>Maven plugins are not -always- fit for incremental builds.<p>
+              <ul>
+                <li class="fragment">sometimes execution is irrelevant</li>
+                <li class="fragment">poor performance in IDE</li>
+                <li class="fragment">can cause resource leaks, infinite build loops</li>
+            </ul>
+        </li>
+        </ul>
+        </section>
+        <section>
+          <h2>Lifecycle Mapping</h2>
+          <p>m2e looks for <strong>interesting</strong> Maven build phases</p>
+          <p>what plugins can be executed?</p>
+          <p class="fragment">During an incremental build, maven plugin execution can be :</p>
+          <ul>
+              <li class="fragment">ignored</li>
+              <li class="fragment">executed</li>
+              <li class="fragment">delegated to an m2e connector</li>
+          </ul>
+        </p>
+        </section>
+        <section>
+          <h2>Lifecycle Mapping - cont'd</h2>
+          <p>Lifecycle Mappings can be stored :</p>
+          <ul>
+              <li class="fragment">inside pom.xml</li>
+              <li class="fragment">at the workspace level</li>
+              <li class="fragment">inside Eclipse (m2e) plugins</li>
+              <li class="fragment">inside Maven plugins</li>
+          </ul>
+        </section>
+    </section>
+<section>
+ <section>
+  <h2>About m2e-wtp</h2>
+  <p>
+    <img style="background-color:white;border:none;vertical-align:middle;" src="http://www.eclipse.org/m2e-wtp/logos/m2e-wtp_icon_128px.png" border="0"/>aven Integration for Eclipse WTP           
+  </p>
+    <ul>
+      <li class="fragment">m2e sub-project, graduated from incubator</li>
+      <li class="fragment">provides a bridge between Maven (m2e) and Eclipse WTP</li>
+      <li class="fragment">now included in the Java EE Kepler distribution</li>
+  </ul>
+</p>
+</section>
+<section>
+  <h2>m2e-wtp features</h2>
+  <p>
+    <ul>
+      <li class="fragment">Provides Java EE (->7) project facet integration</li>
+      <li class="fragment">Dynamic War Overlay support</li>
+      <li class="fragment">Dynamic Web Resource filtering support</li>
+      <li class="fragment">Eclipse to Maven project conversion</li>
+      <li class="fragment">Optional JAX-RS, JSF, JPA configurators</li>
+  </ul>
+</p>
+</section>
+</section>
+<section>
+  <h2>Demo time</h2>
+  Let's create our own continuous integration server!
+</section>
+<section>
+  <h2>m2e ecosystem</h2>
+  <p>
+    <ul>
+      <li class="fragment">m2e-tycho
+       <ul>
+        <li>Build Eclipse plugins / OSGi</li>
+       </ul>
+      </li>
+      <li class="fragment">JBoss Tools / JBoss Developer Studio
+      <ul>
+        <li>CDI, Hibernate, Portlet, GWT configurators</li>
+        <li>Maven Profile Management UI</li>
+        <li>Jar -> Dependency conversion</li>
+      </ul>
+      </li>
+      <li class="fragment">SpringSource/Grails Tools Suite
+      <ul>
+        <li>Groovy support</li>
+      </ul>
+      </li>
+      <li class="fragment">and m2e-wro4j, m2e-scala and more...</li>
+      </ul>
+
+      </li>
+
+  </ul>
+</p>
+</section>
+<section>
+  <h2>Any questions?</h2>
+</section>
+
+
+<section>
+ <h3>Links</h3>
+ <ul>
+  <li><a href="https://www.eclipse.org/m2e/">https://www.eclipse.org/m2e/</a></li>
+  <li><a href="https://www.eclipse.org/m2e-wtp/">https://www.eclipse.org/m2e-wtp/</a></li>
+  <li><a href="http://wiki.eclipse.org/M2E_plugin_execution_not_covered">Lifecycle mapping</a> 
+    <li><a href="http://maven.apache.org/plugins/maven-war-plugin/overlays.html">Maven war overlays</a></li>
+    <li><a href="http://maven.apache.org/plugins/maven-war-plugin/examples/adding-filtering-webresources.html">Filtering web resources</a></li>
+    <li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?list_id=6017609&query_format=advanced&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&product=m2e&product=M2E-WTP">Bugzilla</a></li>
+</ul>
+</section>
+
+
+  </div>
+</div>
+
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+
+<script>
+
+            // Full list of configuration options available here:
+            // https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                history: true,
+                center: true,
+
+                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+                transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+                // Optional libraries used to extend on reveal.js
+                dependencies: [
+                { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+                { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+                    // { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+                    // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+                    ]
+                });
+
+</script>
+
+</body>
+</html>
