@@ -11,7 +11,7 @@ title: Eclipse Day China - Satellite site - Main page
 
 <p>北京 2013年6月29日 （周六）full day </p>
 
-![Eclipse-4-tiny.jpg](Poster/Eclipse-4-tiny.jpg)
+![Eclipse-4-tiny-6.png](Poster/Eclipse-4-tiny-6.png)
 
 <p><a href="http://wiki.eclipse.org/Eclipse_Day_China">official page Eclipse Day China</a></p>
 
