@@ -72,6 +72,8 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
  read on [Planet Eclipse](http://planeteclipse.org/planet/)
 - [what we have done last week (Eclipse Momentics | Cascades workshop)](http://ekkescorner.wordpress.com/2013/06/18/what-we-have-done-last-week-eclipse-momentics-cascades-workshop/)  
 
+[big list of links](event-in-media)
+
 ### Entertainment 娱乐
 
 - Possibly [mini-concert of "One Shot" band](https://www.dropbox.com/s/ysm39hi7b8k6af8/blue-suede-shoes-small.mov),
