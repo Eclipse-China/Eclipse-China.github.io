@@ -16,7 +16,17 @@ title: Eclipse Day China - Satellite site - Main page
 <p><a href="http://wiki.eclipse.org/Eclipse_Day_China">official page Eclipse Day China</a></p>
 
 <p>The event is free, please register ASAP to reserve your seat. 此次活动免费，因席位有限，请务必尽早注册预留席位。</p>
-<p>Register on | 注册在
+
+Registrations is closed. Limited number of guests (up to 10) can join remotely via WebEx. Contact organizers.
+There is waiting list on http://democampbeijing2013.eventbrite.com/ 报名结束了。只有等着的列表。试试你的机会。
+
+If you are coming from other city (not Beijing) or want to do demo or help around on Eclipse Day, please contact organizers.
+ We need person who will lead Track 2 (come with notebook, connect with remote presenters, be whole day on the site).
+ Speakers and co-organizers are always welcomed!
+
+如果你要从另外的城市来，请联系我们能不能帮助你们。I you are coming from other city please contact us if we can help you. 
+
+<p>Register was on | 报名结束了。注册的在
 	<ul>
 		<li><a href="http://event.weibo.com/897258">微博活动网页/897258</a></li>
 		<li><a href="http://democampbeijing2013.eventbrite.com">http://democampbeijing2013.eventbrite.com</a> 要报名 
@@ -50,7 +60,7 @@ title: Eclipse Day China - Satellite site - Main page
 
 See official agenda at [wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers](http://wiki.eclipse.org/Eclipse_Day_China#Topics_and_Speakers)
 
-![Agenda-0626.PNG](Agenda-0626.PNG)
+![Agenda-0628.PNG](Agenda-0628.PNG)
 
 Lucky draw prize ![Blackberry_Q10_Black-small.png](../Pictures/Blackberry_Q10_Black-small.png) (for those registered before June 18th)
 is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/Blackberry_Logo_230px.svg.png)
