@@ -59,20 +59,17 @@ title: Eclipse China
 <p><a href="https://github.com/Eclipse-China">GitHub organization</a></p>
 
 <h1>Announces 公布</h1>
-<p>Events have passed. Check for materials on <a href="/Day/">Day</a> page.</p>
+<p>Events have passed. Check for materials on <a href="/Day/">Day materials</a> page.</p>
 <p>两个活动结束了. 查看 <a href="/Day/">Day</a>资料。</p>
 <p>.. and wait for next big thing.</p>
 <p>上等跟大活动。</p>
 
-<h1>Beijing Thursday 北京周四</h1>
-<p><a href="http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013/Beijing_Thursday">DemoCamp Beijing Thursday 北京 2013年6月20日 7点 （周四）</a></p>
-<p>Register on 
-	<ul>
-		<li><a href="http://event.weibo.com/897962">微博活动网页/897962</a></li>
-		<li><a href="http://democampbeijingthursday2013.eventbrite.com">http://democampbeijingthursday2013.eventbrite.com</a> 要报名 
-			(Select 选择 register with email)</li>
-	</ul>
-</p>
+<h1>Blog Posts</h1>
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 <h1><a href="/Day/">Eclipse Day China</a></h1>
 <p><a href="/Day/press-release">Press-Release</a></p>
@@ -112,13 +109,16 @@ If you are coming from other city (not Beijing) or want to do demo or help aroun
 	<img alt="Poster small" src="Day/Poster/Eclipse-4-tiny-6.png" /></a>
 <p><a href="Day/Poster/Eclipse-4.jpg">下载大的海报 | get big poster 6732 x 9921</a></p>
 
+<h1>Beijing Thursday 北京周四</h1>
+<p><a href="http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013/Beijing_Thursday">DemoCamp Beijing Thursday 北京 2013年6月20日 7点 （周四）</a></p>
+<p>Register on 
+	<ul>
+		<li><a href="http://event.weibo.com/897962">微博活动网页/897962</a></li>
+		<li><a href="http://democampbeijingthursday2013.eventbrite.com">http://democampbeijingthursday2013.eventbrite.com</a> 要报名 
+			(Select 选择 register with email)</li>
+	</ul>
+</p>
 
-<h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
 
       </section>
 
