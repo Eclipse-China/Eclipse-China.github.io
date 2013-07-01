@@ -17,3 +17,7 @@ title: Eclipse Day China - Satellite site - Day page
  [Wizard-large.mov](Presentations/Granatella/Wizard-large.mov), [Eclipse Groovy-large.mov](Presentations/Granatella/Eclipse Groovy-large.mov) 
 - 18) Ekke will demo the new Eclipse Momentics IDE: live hacking - no slides, but [big video](http://ge.tt/879UqUk/v/0) ([download](http://ge.tt/api/1/files/879UqUk/0/blob?download)). 
 - 19) Working with Maven in Eclipse [html](Presentations/Fred_Bricon/m2e-eclipseday-beijing.html) | [pdf](Presentations/Fred_Bricon/m2e-eclipseday-beijing.pdf) 
+
+## Follow-ups
+
+[Eclipse in browser demo](http://itsmdemo.siteview.com/itsmdemo/webloader) (actually using [Eclipse RAP](http://www.eclipse.org/rap/)) by Chinese company [SiteView](http://www.siteview.com)
