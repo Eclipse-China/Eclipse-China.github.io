@@ -6,7 +6,7 @@ title: Font for Chinese in Eclipse
 {{ page.title }}
 ================
 
-Get [YaHei.Consolas.1.12.ttf](https://github.com/Nodeclipse/eclipse-node-ide/tree/master/Fonts) file and put in <code>C:\Windows\Fonts\</code>
+Get [YaHei.Consolas.1.12.ttf](https://github.com/Nodeclipse/eclipse-node-ide/tree/master/Fonts) file and put in `C:\Windows\Fonts\`
 
 <!-- these all don't work:
 https://raw.github.com/Nodeclipse/eclipse-node-ide/master/Fonts/YaHei.Consolas.1.12.ttf
