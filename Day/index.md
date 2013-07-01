@@ -67,6 +67,7 @@ is provided by BlackBerry company ![Blackberry_Logo_230px.svg.png](../Pictures/B
 
 ### Presentations materials 演示资料
 
+[Are now on separate page 现在在这里](materials)
 
 ### In media 媒体
 
