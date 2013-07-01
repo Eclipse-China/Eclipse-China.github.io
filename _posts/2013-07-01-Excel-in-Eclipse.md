@@ -1,6 +1,6 @@
 ---
 layout: eclipse-china
-title: Escel in Eclipse
+title: Excel in Eclipse
 ---
 
 ## {{ page.title }}
