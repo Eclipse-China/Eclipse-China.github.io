@@ -15,3 +15,5 @@ please give 请提供
 - photo 照片
 - some links about 相关的连接
 - how to advertise your session (e.g. new feature release) 怎么做广告您的主题（例如，新功能发布）
+
+<mailto:paul.verest@live.com?subject=Eclipse-Day-China&body=I_would_like_to_present_on_Eclipse_November_Day_China_events>
