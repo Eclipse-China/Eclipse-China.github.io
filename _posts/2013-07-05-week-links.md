@@ -1,3 +1,9 @@
+---
+layout: eclipse-china
+title: Eclipse China Week links
+---
+
+## {{ page.title }}
 
 [UTF-8 RAP I18N](http://eclipsesource.com/blogs/2013/06/18/i18n-in-eclipse-with-utf-8-property-files/)
 

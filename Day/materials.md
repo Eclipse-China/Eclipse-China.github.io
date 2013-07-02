@@ -25,7 +25,7 @@ title: Eclipse Day China - Satellite site - Day page
 10. [JRebel plugin for Eclipse](Presentations/Anton_Arhipov/Eclipse Day China 2013 - JRebel for Eclipse2.pptx) by Anton Arhipov, Zeroturnaround.com
 11. Implementing Mobile Business Applications with [Eclipse Scout](http://www.eclipse.org/scout/), by Matthias Zimmermann, BSI Business Systems Integration AG
 12. Eclipse ADT (Android Development Tools) by 杨光福
-13. Talend Big Data Open Solution (中文) (Chen Bin, Liu Wu)
+13. [Talend](http://www.talend.com/) Big Data Open Solution (中文) (Chen Bin, Liu Wu)
 14. [How to use Eclipse to write and debug Groovy scripts on a live web application](Presentations/Granatella/How to use Eclipse Day Beijing - Granatella.ppt), Giampiero Granatella [ManyDesigns](http://www.manydesigns.com/en/home)
  [Wizard-large.mov](Presentations/Granatella/Wizard-large.mov), [Eclipse Groovy-large.mov](Presentations/Granatella/Eclipse Groovy-large.mov) 
 15. Using the Eclipse Java Development Tools (JDT) to analyze source code by Trent Hoeppner, IBM China
@@ -41,7 +41,7 @@ title: Eclipse Day China - Satellite site - Day page
 
 ### Lucky draw
 
-The lucky draw BlackBerry Q10 winner is Laura who gave also correct answer to BlackBerry Momentics IDE question by Ekke (topic 18).
+The lucky draw BlackBerry Q10 winner is Laura who gave also correct answer to BlackBerry Momentics IDE question by Ekke (topic 18).  
 ![Laura](Photos/2013-06-29 18.59.09 Laura.jpg)
 ![Blackberry_Q10_Black.png](/Pictures/Blackberry_Q10_Black.png)  
 
