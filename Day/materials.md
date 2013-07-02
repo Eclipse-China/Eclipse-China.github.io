@@ -5,6 +5,7 @@ title: Eclipse Day China - Satellite site - Day page
 
 <p><b>Back to <a href="/Day/">Day page</a> | 回<a href="/Day/">Day网页</a></b></p>
 
+[Kepler home](http://www.eclipse.org/kepler/), [help](help.eclipse.org/kepler/)  
 [Kepler Top 10 Highlights](http://www.eclipse.org/community/eclipse_newsletter/2013/june/article1.php)
 
 ## Eclipse Day China materials 活动演示资料
