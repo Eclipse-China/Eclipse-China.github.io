@@ -9,8 +9,8 @@ title: Eclipse Day China - Satellite site - Day page
 
 ## Eclipse Day China materials 活动演示资料
 
-![Languages-and-technologies-under-eclipse-5-tiny.jpg](../Pictures/Languages-and-technologies-under-eclipse-5-tiny.jpg)
 ![Eclipse-4-tiny-6.png](Poster/Eclipse-4-tiny-6.png)
+![Languages-and-technologies-under-eclipse-5-tiny.jpg](../Pictures/Languages-and-technologies-under-eclipse-5-tiny.jpg)
 
 1. [Eclipse organization, members and projects (中文)| Eclipse组织和项目介绍](http://eclipse-china.github.io/Day/press-release)
 2. Eclipse VJET(中文) Jianfeng Liu
@@ -35,6 +35,10 @@ title: Eclipse Day China - Satellite site - Day page
 20. Refactoring on Eclipse(About refactoring guidelines and demonstrate examples using Eclipse's refactoring tool), by 李彦辉, ThoughtWorks
 21. 基于Eclipse Debug Framework 的流程编辑器调试功能的实现（Implementing debug functionality for process editor based on Eclipse Debug Framework）, by 孙镌宸, ThoughtWorks
 22. Getting started with Spring Tool Suite (English|中文) by Michael Isvy, APJ Education Manager at Pivotal (SpringSource) 
+
+The lucky draw BlackBerry Q10 winner is Laura who gave also correct answer to BlackBerry Momentics IDE question by Ekke (topic 18).
+![Laura](Photos/2013-06-29 18.59.09 Laura.jpg)
+![Blackberry_Q10_Black.png](/Pictures/Blackberry_Q10_Black.png)  
 
 ## Follow-ups
 
