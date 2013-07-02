@@ -18,7 +18,7 @@ title: Eclipse Day China - Satellite site - Day page
 3. Open source story [Nodeclipse](http://www.nodeclipse.org/) | 在Eclipse开发Node.js (中文)
 4. Modeling and Programming going hand in hand with UML Lab - an Eclipse-based Modeling IDE by Manuel Bork, [Yatta Solutions](http://www.yatta.de/en/)
 5. [Eclipse Java IDE Tips and Tricks (How to work more effectively)](Presentations/Rabea_Gransberger/EclipseTippsAndTricks_NoNotes.pptx) by Rabea Gransberger
-6. Eclipse 4 Programming Model" (中文) by Jin Mingjian 
+6. [Eclipse 4 Programming Model](Presentations/Jin_MingJian/Eclipse 4 Programming Model  and  Practices.pdf) (中文) by Jin Mingjian 
 7. [Development of Embedded Systems with eTrice](Presentations/Thomas_Schuetz/20130629 eTrice - Eclipse Demo Camp Beijing.pptx) http://www.eclipse.org/etrice/ by Thomas Schuetz, http://www.protos.de  
 8. [Implementing complex graphical editors with model-driven technologies by Andreas Graf](Presentations/Andreas_Graf/Eclipse_DemoCamp_Beijing_2013.pdf), [screen-cast](Presentations/Andreas_Graf/GeneratedEditor.mp4)
 9. Internal DSLs with Xtend, by Karsten Thoms, [itemis.com](http://www.itemis.com/)  
