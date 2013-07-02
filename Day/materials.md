@@ -39,13 +39,13 @@ title: Eclipse Day China - Satellite site - Day page
 
 [Details | 详细信息](http://wiki.eclipse.org/Eclipse_Day_China#Details_.7C_.E8.AF.A6.E7.BB.86.E4.BF.A1.E6.81.AF) 
 
-### Lucky draw
+### Lucky draw 幸运大抽奖
 
 The lucky draw BlackBerry Q10 winner is Laura who gave also correct answer to BlackBerry Momentics IDE question by Ekke (topic 18).  
 ![Laura](Photos/2013-06-29 18.59.09 Laura.jpg)
 ![Blackberry_Q10_Black.png](/Pictures/Blackberry_Q10_Black.png)  
 
-## Follow-ups
+## Follow-ups 跟进
 
 [Eclipse in browser demo](http://itsmdemo.siteview.com/itsmdemo/webloader) (actually using [Eclipse RAP](http://www.eclipse.org/rap/))
  by Chinese company [SiteView. 北京游龙网网络科技](http://www.siteview.com).
