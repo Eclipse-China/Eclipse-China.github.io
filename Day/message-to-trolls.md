@@ -3,3 +3,6 @@ For those who registered, but didn't come without notification there is fee 20rm
  We had to close registration 2-3 days before the event.
   
 ![Internet-Troll-small.PNG](/Pictures/Internet-Troll-small.PNG)  
+
+If you have sent notice that we have not got, please let us know.
+<mailto:paul.verest@live.com?subject=Eclipse-Day-China&body=I_am_not_troll>
