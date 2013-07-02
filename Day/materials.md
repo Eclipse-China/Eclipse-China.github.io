@@ -34,7 +34,7 @@ title: Eclipse Day China - Satellite site - Day page
 18. Ekke's demo the new Eclipse Momentics IDE: live hacking - no slides, but [big video](http://ge.tt/879UqUk/v/0) ([download](http://ge.tt/api/1/files/879UqUk/0/blob?download)). 
 19. Working with Maven in Eclipse [html](Presentations/Fred_Bricon/m2e-eclipseday-beijing.html) | [pdf](Presentations/Fred_Bricon/m2e-eclipseday-beijing.pdf)
 20. Refactoring on Eclipse(About refactoring guidelines and demonstrate examples using Eclipse's refactoring tool), by 李彦辉, ThoughtWorks
-21. 基于Eclipse Debug Framework 的流程编辑器调试功能的实现（Implementing debug functionality for process editor based on Eclipse Debug Framework）, by 孙镌宸, ThoughtWorks
+21. [基于Eclipse Debug Framework 的流程编辑器调试功能的实现（Implementing debug functionality for process editor based on Eclipse Debug Framework）](Presentations/Sun_Juanchen/ImplementDebugFunctionalityUsingEclipseDebugFrameworks.pdf), by 孙镌宸, ThoughtWorks
 22. Getting started with Spring Tool Suite (English|中文) by Michael Isvy, APJ Education Manager at Pivotal (SpringSource)
 
 [Details | 详细信息](http://wiki.eclipse.org/Eclipse_Day_China#Details_.7C_.E8.AF.A6.E7.BB.86.E4.BF.A1.E6.81.AF) 

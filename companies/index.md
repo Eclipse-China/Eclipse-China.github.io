@@ -9,4 +9,10 @@ title: Eclipse related Companies in China
 
 #### Eclipse members
 
-Actuate 
+- Actuate
+- Google
+- IBM
+- Oracle
+- Red Hat
+
+ 

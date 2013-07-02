@@ -1,3 +1,7 @@
+---
+layout: eclipse-china
+title: Eclipse Day China - Lessons learned
+---
 
 Decided
 - no weibo for registration
