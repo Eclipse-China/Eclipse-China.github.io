@@ -5,7 +5,7 @@ title: Eclipse Day China - Satellite site - Day page
 
 <p><b>Back to <a href="/Day/">Day page</a> | 回<a href="/Day/">Day网页</a></b></p>
 
-[Kepler home](http://www.eclipse.org/kepler/), [help](help.eclipse.org/kepler/)  
+[Kepler home](http://www.eclipse.org/kepler/), [help](//help.eclipse.org/kepler/)  
 [Kepler Top 10 Highlights](http://www.eclipse.org/community/eclipse_newsletter/2013/june/article1.php)
 
 ## Eclipse Day China materials 活动演示资料
@@ -35,7 +35,11 @@ title: Eclipse Day China - Satellite site - Day page
 19. Working with Maven in Eclipse [html](Presentations/Fred_Bricon/m2e-eclipseday-beijing.html) | [pdf](Presentations/Fred_Bricon/m2e-eclipseday-beijing.pdf)
 20. Refactoring on Eclipse(About refactoring guidelines and demonstrate examples using Eclipse's refactoring tool), by 李彦辉, ThoughtWorks
 21. 基于Eclipse Debug Framework 的流程编辑器调试功能的实现（Implementing debug functionality for process editor based on Eclipse Debug Framework）, by 孙镌宸, ThoughtWorks
-22. Getting started with Spring Tool Suite (English|中文) by Michael Isvy, APJ Education Manager at Pivotal (SpringSource) 
+22. Getting started with Spring Tool Suite (English|中文) by Michael Isvy, APJ Education Manager at Pivotal (SpringSource)
+
+[Details | 详细信息](http://wiki.eclipse.org/Eclipse_Day_China#Details_.7C_.E8.AF.A6.E7.BB.86.E4.BF.A1.E6.81.AF) 
+
+### Lucky draw
 
 The lucky draw BlackBerry Q10 winner is Laura who gave also correct answer to BlackBerry Momentics IDE question by Ekke (topic 18).
 ![Laura](Photos/2013-06-29 18.59.09 Laura.jpg)
@@ -43,4 +47,6 @@ The lucky draw BlackBerry Q10 winner is Laura who gave also correct answer to Bl
 
 ## Follow-ups
 
-[Eclipse in browser demo](http://itsmdemo.siteview.com/itsmdemo/webloader) (actually using [Eclipse RAP](http://www.eclipse.org/rap/)) by Chinese company [SiteView](http://www.siteview.com)
+[Eclipse in browser demo](http://itsmdemo.siteview.com/itsmdemo/webloader) (actually using [Eclipse RAP](http://www.eclipse.org/rap/))
+ by Chinese company [SiteView. 北京游龙网网络科技](http://www.siteview.com).
+用[Eclipse RAP](http://www.eclipse.org/rap/)实现的[产品](http://itsmdemo.siteview.com/itsmdemo/webloader)。
