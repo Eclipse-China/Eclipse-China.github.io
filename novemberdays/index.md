@@ -8,6 +8,7 @@ This is preparation page for November Days China (Beijing & ShangHai)
 wait-list <http://eclipsenovemberday.eventbrite.com>
 
 please give 请提供
+
 - topic 主题名
 - abstract 详细
 - your short bio 短的CV
