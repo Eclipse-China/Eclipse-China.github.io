@@ -11,7 +11,7 @@ See also [materials](../materials).
 
 ## Speakers
 
-*2. ![Jianfeng Liu](Jianfeng_Liu_pic200.png)
+*2. ![Jianfeng Liu](Jianfeng_Liu_pic200.png)  
 Jianfeng Liu  
 eBay Engineering Consultants Ltd  
 Shanghai City, China  

@@ -3,9 +3,13 @@ layout: eclipse-china
 title: Eclipse Day China - November days
 ---
 
+## {{ page.title }}
+
 This is preparation page for November Days China (Beijing & ShangHai)
 
-wait-list <http://eclipsenovemberday.eventbrite.com>
+guests wait-list <http://eclipsenovemberday.eventbrite.com>
+
+### For presenters 讲师注意
 
 please give 请提供
 
