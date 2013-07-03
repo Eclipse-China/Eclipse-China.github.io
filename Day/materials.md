@@ -18,7 +18,7 @@ See also [speakers](Speakers/).
 如果在这里没有资料，是讲师还没分享的意思。
 
 1. [Eclipse organization, members and projects (中文)| Eclipse组织和项目介绍](http://eclipse-china.github.io/Day/press-release)
-2. Eclipse VJET(中文) Jianfeng Liu
+2. [Eclipse VJET](Presentations/Liu_Jianfeng/VJET_EclipseCon.ppt) (中文) Jianfeng Liu
 3. Open source story [Nodeclipse](http://www.nodeclipse.org/) | 在Eclipse开发Node.js (中文)
 4. Modeling and Programming going hand in hand with [UML Lab](http://www.uml-lab.com/en/) - an Eclipse-based Modeling IDE by Manuel Bork, [Yatta Solutions](http://www.yatta.de/en/) [sfw](http://www.uml-lab.com/fileadmin/files/videos/roundtrip-940-en.flv)
 5. [Eclipse Java IDE Tips and Tricks (How to work more effectively)](Presentations/Rabea_Gransberger/EclipseTippsAndTricks_NoNotes.pptx) by Rabea Gransberger
@@ -29,7 +29,7 @@ See also [speakers](Speakers/).
 10. [JRebel plugin for Eclipse](Presentations/Anton_Arhipov/Eclipse Day China 2013 - JRebel for Eclipse2.pptx) by Anton Arhipov, Zeroturnaround.com
 11. Implementing Mobile Business Applications with [Eclipse Scout](http://www.eclipse.org/scout/), by Matthias Zimmermann, BSI Business Systems Integration AG
 12. Eclipse ADT (Android Development Tools) by 杨光福
-13. [Talend](http://www.talend.com/) Big Data Open Solution (中文) (Chen Bin, Liu Wu)
+13. [Talend](http://www.talend.com/) [Big Data Open Solution](Presentations/Liu_Wu/Talend Big Data Open Solution.pdf) (中文) (Chen Bin, Liu Wu)
 14. [How to use Eclipse to write and debug Groovy scripts on a live web application](Presentations/Granatella/How to use Eclipse Day Beijing - Granatella.ppt), Giampiero Granatella [ManyDesigns](http://www.manydesigns.com/en/home)
  [Wizard-large.mov](Presentations/Granatella/Wizard-large.mov), [Eclipse Groovy-large.mov](Presentations/Granatella/Eclipse Groovy-large.mov) 
 15. Using the Eclipse Java Development Tools (JDT) to analyze source code by Trent Hoeppner, IBM China
