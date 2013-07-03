@@ -7,6 +7,8 @@ title: Eclipse Day China - Speakers
 
 ![Eclipse-4-tiny-6.png](../Poster/Eclipse-4-tiny-6.png)
 
+See also [materials](../materials).
+
 ## Speakers
 
 *2. Jianfeng Liu
