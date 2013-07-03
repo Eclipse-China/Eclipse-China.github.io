@@ -5,12 +5,14 @@ title: Eclipse Day China - Speakers
 
 <p><b>Back to <a href="/Day/">Day page</a> | 回<a href="/Day/">Day网页</a></b></p>
 
+![Eclipse-4-tiny-6.png](../Poster/Eclipse-4-tiny-6.png)
+
 ## Speakers
 
 *2. Jianfeng Liu
-Jianfeng Liu
-eBay Engineering Consultants Ltd
-Shanghai City, China
+Jianfeng Liu  
+eBay Engineering Consultants Ltd  
+Shanghai City, China  
 
 *4. ![Manuel Bork](Manuel_Bork_195fb44.jpg)  
 Manuel Bork  
@@ -39,17 +41,18 @@ Karsten Thoms
 Software Architect at itemis AG  
 Essen Area, Germany  
 
-*10. Anton Arhipov  
-JRebel Product Manager at ZeroTurnaround  
+*10. ![](Anton_Arhipov_1015009.jpg)  
+Anton Arhipov    
+JRebel Product Manager at ZeroTurnaround    
 Estonia  
 
-*11. ![Matthias Zimmermann](Matthias_Zimmermann_34e0689.jpg)  
+*11. ![Matthias Zimmermann](Matthias_Zimmermann_34e0689.jpg)    
 Matthias Zimmermann  
 Eclipse Scout Co-Lead  
 
-12. ！[杨光福](psu_200x200.jpg)
-杨光福
-Funshion Online 风行网
+*12. ![杨光福](psu_200x200.jpg)    
+杨光福  
+Funshion Online 风行网  
 
 *13. ![Liu_Wu.jpg](Liu_Wu_200x200.jpg)
 Liu Wu
