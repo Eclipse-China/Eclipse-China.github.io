@@ -23,6 +23,7 @@ Product Manager bei Yatta Solutions GmbH
 *5. ![Rabea Gransberger](Rabea_Gransberger_089d8f1.jpg)  
 Rabea Gransberger  
 Software Engineer bei MEKO-S GmbH  
+(frequent software conference speaker) 
 
 *6. ![Jin Mingjian](Jin_Mingjian_0526152.jpg)  
 Jin Mingjian  
@@ -56,9 +57,9 @@ Eclipse Scout Co-Lead
 杨光福  
 Funshion Online 风行网  
 
-*13. ![Liu_Wu.jpg](Liu_Wu_200x200.jpg)
-Liu Wu
-Talend China
+*13. ![Liu_Wu.jpg](Liu_Wu_200x200.jpg)  
+Liu Wu  
+Talend China  
 
 *14. ![Giampiero Granatella](Giampiero_Granatella_0e59597.jpg)  
 Giampiero Granatella  
