@@ -8,6 +8,8 @@ title: Eclipse Day China - Satellite site - Day page
 [Kepler home](http://www.eclipse.org/kepler/), [help](//help.eclipse.org/kepler/)  
 [Kepler Top 10 Highlights](http://www.eclipse.org/community/eclipse_newsletter/2013/june/article1.php)
 
+See also [speakers](Speakers/).
+
 ## Eclipse Day China materials 活动演示资料
 
 ![Eclipse-4-tiny-6.png](Poster/Eclipse-4-tiny-6.png)
@@ -32,7 +34,7 @@ title: Eclipse Day China - Satellite site - Day page
 16. 基于Eclipse的BIRT （BIRT on Eclipse）, (中文) by 刘叶, Actuate Software China
 17. 如何用BIRT创建应用 （How to Build Application on BIRT）, (中文) by 朱倩, Actuate Software China
 18. Ekke's demo the new Eclipse Momentics IDE: live hacking - no slides, but [big video](http://ge.tt/879UqUk/v/0) ([download](http://ge.tt/api/1/files/879UqUk/0/blob?download)). 
-19. Working with Maven in Eclipse [html](Presentations/Fred_Bricon/m2e-eclipseday-beijing.html) | [pdf](Presentations/Fred_Bricon/m2e-eclipseday-beijing.pdf)
+19. Working with Maven in Eclipse [html](Presentations/Fred_Bricon/m2e-eclipseday-beijing.html) | [pdf](Presentations/Fred_Bricon/m2e-eclipseday-beijing.pdf) by by Fred Bricon, Red Hat, Inc
 20. Refactoring on Eclipse(About refactoring guidelines and demonstrate examples using Eclipse's refactoring tool), by 李彦辉, ThoughtWorks
 21. [基于Eclipse Debug Framework 的流程编辑器调试功能的实现（Implementing debug functionality for process editor based on Eclipse Debug Framework）](Presentations/Sun_Juanchen/ImplementDebugFunctionalityUsingEclipseDebugFrameworks.pdf), by 孙镌宸, ThoughtWorks
 22. Getting started with Spring Tool Suite (English|中文) by Michael Isvy, APJ Education Manager at Pivotal (SpringSource)
