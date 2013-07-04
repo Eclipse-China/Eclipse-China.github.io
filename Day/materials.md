@@ -23,10 +23,10 @@ See also [speakers](Speakers/).
 4. Modeling and Programming going hand in hand with [UML Lab](http://www.uml-lab.com/en/) - an Eclipse-based Modeling IDE by Manuel Bork, [Yatta Solutions](http://www.yatta.de/en/) [sfw](http://www.uml-lab.com/fileadmin/files/videos/roundtrip-940-en.flv)
 5. [Eclipse Java IDE Tips and Tricks (How to work more effectively)](Presentations/Rabea_Gransberger/EclipseTippsAndTricks_NoNotes.pptx) by Rabea Gransberger
 6. [Eclipse 4 Programming Model](Presentations/Jin_MingJian/Eclipse 4 Programming Model  and  Practices.pdf) (中文) by Jin Mingjian 
-7. [Development of Embedded Systems with eTrice](Presentations/Thomas_Schuetz/20130629 eTrice - Eclipse Demo Camp Beijing.pptx) http://www.eclipse.org/etrice/ by Thomas Schuetz, http://www.protos.de  
+7. [Development of Embedded Systems with eTrice](Presentations/Thomas_Schuetz/20130629 eTrice - Eclipse Demo Camp Beijing.pptx) <http://www.eclipse.org/etrice/> by Thomas Schuetz, <http://www.protos.de>  
 8. [Implementing complex graphical editors with model-driven technologies by Andreas Graf](Presentations/Andreas_Graf/Eclipse_DemoCamp_Beijing_2013.pdf) (中文&English), [screen-cast](Presentations/Andreas_Graf/GeneratedEditor.mp4)
 9. Internal DSLs with Xtend, by Karsten Thoms, [itemis.com](http://www.itemis.com/)  
-10. [JRebel plugin for Eclipse](Presentations/Anton_Arhipov/Eclipse Day China 2013 - JRebel for Eclipse2.pptx) by Anton Arhipov, Zeroturnaround.com
+10. [JRebel plugin for Eclipse](Presentations/Anton_Arhipov/Eclipse Day China 2013 - JRebel for Eclipse2.pptx) by Anton Arhipov, <Zeroturnaround.com>
 11. Implementing Mobile Business Applications with [Eclipse Scout](http://www.eclipse.org/scout/), by Matthias Zimmermann, BSI Business Systems Integration AG
 12. Eclipse ADT (Android Development Tools) by 杨光福
 13. [Talend](http://www.talend.com/) [Big Data Open Solution](Presentations/Liu_Wu/Talend Big Data Open Solution.pdf) (中文) (Chen Bin, Liu Wu)
