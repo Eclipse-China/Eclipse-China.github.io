@@ -13,3 +13,8 @@ title: Eclipse Day China - Organizers
 Jin Mingjian  
 Technical Staff at Oracle Research and Development Center - Beijing  
 
+![](ly.jpg)  
+Track 2 leader  
+Software Developer, Uwaysoft  
+
+

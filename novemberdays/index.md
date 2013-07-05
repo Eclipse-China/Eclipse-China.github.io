@@ -7,17 +7,19 @@ title: Eclipse November Days
 
 This is preparation page for November Days China (Beijing & ShangHai)
 
-<p>See previous 看之前的 <a href="/Day/">Day</a></p>.
+<p>See previous 看之前的 <a href="/Day/">Day</a>.</p>
 
 This time is will be shorter, but more tracks (when more speakers),
 so hopefully some specialized tracks will be there.
 下一次应该较短的时间,跟多track吧。
 
-We are going to share remote sessions, that is easy but requires some preparations.
+We are going to share remote sessions with other cities, that is easy but requires some preparations.
 
 guests wait-list <http://eclipsenovemberday.eventbrite.com>
 
 ### For presenters 讲师注意
+
+1 slot is 30 minutes. 
 
 please give 请提供
 
@@ -38,3 +40,7 @@ We do not pay speaking fees or reimburse speakers for travel costs.
 
 The submission deadline is October 31th.
 The agenda will be announce 3-4 weeks before the event.
+
+### Webmaster
+
+Webmaster is needed. If you noticed typo, mistake or have an idea, please [raise an issue here](https://github.com/Eclipse-China/Eclipse-China.github.io/issues).
