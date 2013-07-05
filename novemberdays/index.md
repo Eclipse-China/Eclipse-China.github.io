@@ -3,16 +3,40 @@ layout: eclipse-china
 title: Eclipse November Days
 ---
 
-## {{ page.title }}
-
-This is preparation page for November Days China (Beijing & ShangHai)
-
 <p>See previous 看之前的 <a href="/Day/">Day</a>.</p>
 
+## {{ page.title }}
+
+This is preparation page for November Days China (Beijing & ShangHai).  
+Planned date is November 29th, Saturday.
+我们打算11月29号周六在准备Day活动。和我们一起来吧。给世界演示中国的成功，给大家分享。   
+
 This time is will be shorter, but more tracks (when more speakers),
-so hopefully some specialized tracks will be there.
+so hopefully some specialized tracks will be there.  
 下一次应该较短的时间,跟多track吧。
 
+Proposed topic tracks are Tools, Architecture (not limited).  
+Topics should be Eclipse-related, but as we expect to have 20 and more topics some may be general about software development. 
+
+Though some would like to have Chinese-only or English-only tracks, I think it would be bad practice,
+ that would favor laziness not to study other languages. Session would be group by content not language.  
+
+I hope guest select topics by interest, not by language used.    
+希望大家找最有意思的主题，换track，不管用什么语言讲的。 
+ 
+
+### Wanted/proposed 希望
+
+- Repeat [previous sessions](/Day/materials) with updates and improvements
+- Eclipse Web Tools
+- Orion
+- vert.x
+- DDD
+- Architecture
+
+Especially wanted Chinese speakers & presenters.   
+非常希望跟多中国朋友来讲，演示自己做的。
+ 
 We are going to share remote sessions with other cities, that is easy but requires some preparations.
 
 guests wait-list <http://eclipsenovemberday.eventbrite.com>
@@ -24,6 +48,7 @@ guests wait-list <http://eclipsenovemberday.eventbrite.com>
 please give 请提供
 
 - topic 主题名
+- tags like tools, architecture
 - abstract 详细
 - your name, organization 姓名，公司
 - your short bio 短的CV
