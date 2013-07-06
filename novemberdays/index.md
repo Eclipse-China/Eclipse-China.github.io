@@ -25,12 +25,13 @@ I hope guest select topics by interest, not by language used.
 希望大家找最有意思的主题，换track，不管用什么语言讲的。 
  
 
-### Wanted/proposed 希望
+### Wanted/proposed 希望或者建议
 
 - Repeat [previous sessions](/Day/materials) with updates and improvements
 - Eclipse Web Tools
 - Orion
 - vert.x
+- nginx
 - DDD and modeling
 - Architecture
 - BigData and NoSQL
