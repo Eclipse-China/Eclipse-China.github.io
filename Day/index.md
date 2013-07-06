@@ -26,7 +26,7 @@ If you are coming from other city (not Beijing) or want to do demo or help aroun
 
 如果你要从另外的城市来，请联系我们能不能帮助你们。I you are coming from other city please contact us if we can help you. 
 
-<p>Register was on | 报名结束了。注册的在
+<p>Registration was on | 报名结束了。注册的在
 	<ul>
 		<li><a href="http://event.weibo.com/897258">微博活动网页/897258</a></li>
 		<li><a href="http://democampbeijing2013.eventbrite.com">http://democampbeijing2013.eventbrite.com</a> 要报名 
