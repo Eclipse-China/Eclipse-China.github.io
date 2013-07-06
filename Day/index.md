@@ -73,6 +73,8 @@ See also [speakers](Speakers/).
 
 ### In media 媒体
 
+#### Before
+
 - [Eclipse Day China——面向中国开发人员和Eclipse爱好者的免费活动](http://user.qzone.qq.com/1521656858/blog/1370401338)	
 - [安讯将于6月底分享开源BIRT相关知识](http://www.jifang360.com/news/2013617/n409649290.html)
 - [BIRT Exchange Forum > Community Blog> Community BIRT> Eclipse Day China](http://www.birt-exchange.org/org/forum/index.php/blog/6/entry-492-eclipse-day-china/)
@@ -81,6 +83,10 @@ See also [speakers](Speakers/).
 - [what we have done last week (Eclipse Momentics | Cascades workshop)](http://ekkescorner.wordpress.com/2013/06/18/what-we-have-done-last-week-eclipse-momentics-cascades-workshop/)  
 
 [big list of links](event-in-media)
+
+#### Event coverage
+
+- [Tech in Asia | Eclipse Day Comes to China, Local Developers Hit a Language Barrier](http://www.techinasia.com/eclipse-day-china-local-developers-hit-language-barrier)
 
 ### Entertainment 娱乐
 

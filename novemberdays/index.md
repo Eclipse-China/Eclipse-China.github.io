@@ -31,11 +31,14 @@ I hope guest select topics by interest, not by language used.
 - Eclipse Web Tools
 - Orion
 - vert.x
-- DDD
+- DDD and modeling
 - Architecture
+- BigData and NoSQL
+- any your topic
 
 Especially wanted Chinese speakers & presenters.   
 非常希望跟多中国朋友来讲，演示自己做的。
+如果你了解上面的主题欢迎欢迎给大家分享。
  
 We are going to share remote sessions with other cities, that is easy but requires some preparations.
 
@@ -59,7 +62,8 @@ please give 请提供
 [email to organizers 联系组织者](mailto:paul.verest@live.com?subject=Eclipse-November-Days-China&body=I_would_like_to_present_on_Eclipse_November_Days_China_events)
 
 We do not pay speaking fees or reimburse speakers for travel costs.
- If we get event budget it will be spent first on care for developers and making the event higher level, like lunch, T-shirts, entertainment.
+ If we get event budget it will be spent first on care for developers and making the event higher level, like lunch, T-shirts, entertainment (like music).
+ If your company is sponsoring, you can say where to you would like to help.
 
 #### Submission
 
