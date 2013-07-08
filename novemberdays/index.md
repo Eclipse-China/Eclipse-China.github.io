@@ -33,8 +33,12 @@ I hope guest select topics by interest, not by language used.
 - vert.x
 - nginx
 - DDD and modeling
+- GitHub
 - Architecture
 - BigData and NoSQL
+- C++/Linux
+- Hardware/automotive
+- Agile
 - any your topic
 
 Especially wanted Chinese speakers & presenters.   
