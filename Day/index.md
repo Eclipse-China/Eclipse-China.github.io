@@ -15,6 +15,10 @@ title: Eclipse Day China - Satellite site - Day page
 
 <p><a href="http://wiki.eclipse.org/Eclipse_Day_China">official page Eclipse Day China</a></p>
 
+[speakers](Speakers/)  
+
+[materials](materials)  
+
 <p>The event is free, please register ASAP to reserve your seat. 此次活动免费，因席位有限，请务必尽早注册预留席位。</p>
 
 Registrations is closed. Limited number of guests (up to 10) can join remotely via WebEx. Contact organizers.
