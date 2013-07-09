@@ -9,7 +9,8 @@ title: Eclipse November Days
 
 This is preparation page for November Days China (Beijing & ShangHai).  
 Planned date is November 30th, Saturday.
-我们打算11月30号周六在准备Day活动。和我们一起来吧。给世界演示中国的成功，给大家分享。   
+我们打算11月30号周六在准备Day活动。和我们一起来吧。给世界演示中国的成功，给大家分享。    
+<http://time.is/compare/0900_30_November_2013_in_Beijing/CET/London/New_York>
 
 This time is will be shorter, but more tracks (when more speakers),
 so hopefully some specialized tracks will be there.  

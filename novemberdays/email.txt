@@ -5,3 +5,19 @@ http://eclipse-china.github.io/novemberdays/
 
 Best regards,
 Paul
+
+Hallo 
+
+We had Eclipse Day China with remote sessions http://wiki.eclipse.org/Eclipse_Day_China#Remote_sessions_via_WebEx (speakers: http://eclipse-china.github.io/Day/Speakers/). What is good about remote sessions is that they are easy to share. 
+So this November we are going to share them with all democamps that will be in the same day, November 30th.
+
+I propose to have mixed level session with intro for those who don't know, and some new and high level stuff for those who uses it. The best thing thing for audience with limited English skills (or those learning through eyes not ears) is to have big demo part, where you just run Eclipse and show how to develop,
+tricks to get quick result, etc. 
+30 minutes. Select convenient time for you 
+http://time.is/compare/0900_30_November_2013_in_Beijing/CET/London/New_York
+
+You are likely to be at home at Saturday morning.
+Please take care about audio & video quality, and light, so that you don't have shadows on your face.
+
+Best regards,
+Paul Verest
