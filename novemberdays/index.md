@@ -30,11 +30,11 @@ I hope guest select topics by interest, not by language used.
 
 - Repeat [previous sessions](/Day/materials) with updates and improvements
 - Eclipse Web Tools
-- Orion
+- Orion， RAP
 - vert.x
 - nginx
-- DDD and modeling
-- GitHub
+- DDD, modeling, DSL
+- GitHub, git
 - Architecture
 - BigData and NoSQL
 - C++/Linux
