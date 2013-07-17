@@ -19,8 +19,8 @@ so hopefully some specialized tracks will be there.
 Proposed topic tracks are Tools, Architecture (not limited).  
 Topics should be Eclipse-related, but as we expect to have 20 and more topics some may be general about software development. 
 
-Though some would like to have Chinese-only or English-only tracks, I think it would be bad practice,
- that would favor laziness not to study other languages. Session would be group by content not language.  
+Although some would like to have Chinese-only or English-only tracks, I think it would be bad practice,
+ that would favor laziness not to study other languages. Sessions would be grouped by content not language.  
 
 I hope guest select topics by interest, not by language used.    
 希望大家找最有意思的主题，换track，不管用什么语言讲的。 
