@@ -40,6 +40,7 @@ I hope guest select topics by interest, not by language used.
 - C++/Linux
 - Hardware/automotive
 - Agile
+- Hudson/Jenkins CI server & Continuous Delivery
 - any your topic
 
 Especially wanted Chinese speakers & presenters.   
