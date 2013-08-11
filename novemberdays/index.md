@@ -12,7 +12,6 @@ Planned date is November 30th, Saturday.
 我们打算11月30号周六在准备Day活动。和我们一起来吧。给世界演示中国的成功，给大家分享。    
 <http://time.is/compare/0900_30_November_2013_in_Beijing/CET/London/New_York>
 
-
 This time is will be shorter, but more tracks (when more speakers),
 so hopefully some specialized tracks will be there.  
 下一次应该较短的时间,跟多track吧。
@@ -20,8 +19,8 @@ so hopefully some specialized tracks will be there.
 Proposed topic tracks are Tools, Architecture (not limited).  
 Topics should be Eclipse-related, but as we expect to have 20 and more topics some may be general about software development. 
 
-Though some would like to have Chinese-only or English-only tracks, I think it would be bad practice,
- that would favor laziness not to study other languages. Session would be group by content not language.  
+Although some would like to have Chinese-only or English-only tracks, I think it would be bad practice,
+ that would favor laziness not to study other languages. Sessions would be grouped by content not language.  
 
 I hope guest select topics by interest, not by language used.    
 希望大家找最有意思的主题，换track，不管用什么语言讲的。 
@@ -31,16 +30,17 @@ I hope guest select topics by interest, not by language used.
 
 - Repeat [previous sessions](/Day/materials) with updates and improvements
 - Eclipse Web Tools
-- Orion
+- Orion， RAP
 - vert.x
 - nginx
-- DDD and modeling
-- GitHub
+- DDD, modeling, DSL
+- GitHub, git
 - Architecture
 - BigData and NoSQL
 - C++/Linux
 - Hardware/automotive
 - Agile
+- Hudson/Jenkins CI server & Continuous Delivery
 - any your topic
 
 Especially wanted Chinese speakers & presenters.   
