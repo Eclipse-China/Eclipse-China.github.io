@@ -23,6 +23,10 @@ title: Eclipse Platform - Books
  
 [Question on SO](http://stackoverflow.com/questions/18171599/the-best-book-for-eclipse-platform-plugins-rcp-covering-eclipse-4)
  
+Old questions:
+
+ - http://stackoverflow.com/questions/6746289/best-book-on-eclipse-platform
+ - http://stackoverflow.com/questions/7779/i-would-like-a-recommendation-for-a-book-on-eclipses-rich-client-platform-rcp 
  
  
  
