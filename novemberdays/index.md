@@ -77,6 +77,16 @@ We do not pay speaking fees or reimburse speakers for travel costs.
 The submission deadline is October 31th.
 The agenda will be announce 3-4 weeks before the event.
 
+### News
+
+Eclipse MarketPlace installs 2013-07-02
+
+![](../Pictures/Marketplace-installs-0702.PNG)
+
+Eclipse MarketPlace installs 2013-08-22
+
+![](../Pictures/Marketplace-installs-0822.PNG)
+
 ### Webmaster
 
 Webmaster is needed. If you noticed typo, mistake or have an idea, please [raise an issue here](https://github.com/Eclipse-China/Eclipse-China.github.io/issues).
