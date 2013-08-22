@@ -1,6 +1,6 @@
 ---
 layout: eclipse-china
-title: Eclipse November Days
+title: Eclipse DemoDays in November
 ---
 
 <p>See previous 看之前的 <a href="/Day/">Day</a>.</p>
