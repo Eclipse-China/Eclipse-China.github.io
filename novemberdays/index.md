@@ -5,6 +5,8 @@ title: Eclipse DemoDays in November
 
 <p>See previous 看之前的 <a href="/Day/">Day</a>.</p>
 
+[Day on Eclipse wiki](http://wiki.eclipse.org/Eclipse_Day_China)
+
 ## {{ page.title }}
 
 This is preparation page for November Days China (Beijing & ShangHai).  
