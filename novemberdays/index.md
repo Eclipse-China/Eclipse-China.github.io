@@ -81,6 +81,8 @@ The agenda will be announce 3-4 weeks before the event.
 
 ### News
 
+Previous Day page <http://wiki.eclipse.org/Eclipse_Day_China> has 30'000+ views.
+
 Eclipse MarketPlace installs 2013-07-02
 
 ![](../Pictures/Marketplace-installs-0702.PNG)
