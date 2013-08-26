@@ -36,7 +36,7 @@ See also [speakers](Speakers/).
 15. Using the Eclipse Java Development Tools (JDT) to analyze source code by Trent Hoeppner, IBM China
 16. 基于Eclipse的BIRT （BIRT on Eclipse）, (中文) by 刘叶, Actuate Software China
 17. 如何用BIRT创建应用 （How to Build Application on BIRT）, (中文) by 朱倩, Actuate Software China
-18. Ekke's demo the new Eclipse Momentics IDE: live hacking - no slides, but [big video](http://ge.tt/879UqUk/v/0) ([download](http://ge.tt/api/1/files/879UqUk/0/blob?download)). 
+18. Ekke's demo the new Eclipse Momentics IDE (BlackBerry): live hacking - no slides, but [big video](http://ge.tt/879UqUk/v/0) ([download](http://ge.tt/api/1/files/879UqUk/0/blob?download)). 
 19. Working with Maven in Eclipse [html](Presentations/Fred_Bricon/m2e-eclipseday-beijing.html) | [pdf](Presentations/Fred_Bricon/m2e-eclipseday-beijing.pdf) by by Fred Bricon, Red Hat, Inc
 20. Refactoring on Eclipse(About refactoring guidelines and demonstrate examples using Eclipse's refactoring tool), by 李彦辉, ThoughtWorks
 21. [基于Eclipse Debug Framework 的流程编辑器调试功能的实现（Implementing debug functionality for process editor based on Eclipse Debug Framework）](Presentations/Sun_Juanchen/ImplementDebugFunctionalityUsingEclipseDebugFrameworks.pdf), by 孙镌宸, ThoughtWorks
