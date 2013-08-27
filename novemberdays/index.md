@@ -92,7 +92,7 @@ Eclipse MarketPlace installs 2013-08-22
 ![](../Pictures/Marketplace-installs-0822.PNG)
 
 
-!{}(../Pictures/top5-internet-users_2013.png)
+![](../Pictures/top5-internet-users_2013.png)
 
 ### Webmaster
 
