@@ -91,6 +91,9 @@ Eclipse MarketPlace installs 2013-08-22
 
 ![](../Pictures/Marketplace-installs-0822.PNG)
 
+
+!{}(../Pictures/top5-internet-users_2013.png)
+
 ### Webmaster
 
 Webmaster is needed. If you noticed typo, mistake or have an idea, please [raise an issue here](https://github.com/Eclipse-China/Eclipse-China.github.io/issues).
