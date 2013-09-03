@@ -1,9 +1,9 @@
 ---
 layout: eclipse-china
-title:Eclispe Git (中文：Eclipse上GIT插件EGIT使用手册)
+title:Eclispe Git (Ch)
 ---
 
-## {{ page.title }}
+## Eclispe Git (中文：Eclipse上GIT插件EGIT使用手册)
 
 下面链接到很好的丰富的文章。
 
