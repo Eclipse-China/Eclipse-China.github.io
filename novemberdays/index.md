@@ -7,6 +7,8 @@ title: Eclipse DemoDays in November
 
 [Day on Eclipse wiki](http://wiki.eclipse.org/Eclipse_Day_China)
 
+<p>check for event online video <a href="http://www.funshion.com/uvideo/play/461974">Eclipse Day 中国 在线视频</a></p>
+
 ## {{ page.title }}
 
 This is preparation page for November Days China (Beijing & ShangHai).  
@@ -90,6 +92,9 @@ Eclipse MarketPlace installs 2013-07-02
 Eclipse MarketPlace installs 2013-08-22
 
 ![](../Pictures/Marketplace-installs-0822.PNG)
+
+
+![](../Pictures/top5-internet-users_2013.png)
 
 ### Webmaster
 
