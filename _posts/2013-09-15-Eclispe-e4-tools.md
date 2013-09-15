@@ -8,6 +8,10 @@ title: Installing Eclispe e4 Tools
 Follow link from <http://projects.eclipse.org/projects/eclipse.e4>, the repository is like follows
 
 	http://download.eclipse.org/e4/downloads/drops/R-0.14-201306242200/repository
+	
+![](/images/e4/e4-installing.png)
+
+![](/images/e4/e4-installing-014-has-012.png)	
 
 Check also [e4 wiki](http://wiki.eclipse.org/E4/Install)	
 	
