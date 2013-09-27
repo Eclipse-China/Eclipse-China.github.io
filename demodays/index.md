@@ -5,17 +5,30 @@ title: Eclipse DemoDays
 
 # Eclipse DemoDays
 
-11月23日在北京，武汉，长沙，广州  
+11月23日在北京，武汉，长沙，广州
+
+![November Calendar](November30.PNG)  
+
+<!-- 
+http://huiyi.csdn.net/meeting
+-->
+
+Eclipse DemoDays 是免费的被Eclipse基金会支持的。
+现在报名没有限制。人多的话可以选邀请谁。谁第一个报名谁有好处（那些早一点儿注册过，有偏好。）
 
 Eclipse wiki 网页 <a href="http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013">http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013</a>
 
-[6月 Eclipse Day 视频](http://www.funshion.com/uvideo/play/461974)
+[Eclipse Day 中国 视频](http://www.funshion.com/uvideo/play/461974)。
 
-[预期](speakers/)
+[预期讲师（暂时）](speakers/)。每个城市讲师不一样，但是一部分是分享的。
+
+现在找着期望大家可以帮助邀请有名的讲师。
+
+还可以来介绍自己的项目。联系组织者。QQ 908781544。
 
 ## 北京
 
-在北京11月14日还有[北京周四](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday)
+在北京11月14日还有[北京周四](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday) [注册](https://yoopay.cn/event/77839001)
 
 [DemoDay 北京](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing) 11月23日
 
