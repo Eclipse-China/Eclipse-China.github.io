@@ -5,7 +5,7 @@ title: Eclipse DemoDays
 
 # Eclipse DemoDays
 
-11月23日在北京，武汉，长沙，广州
+11月30日在北京，武汉，长沙，广州
 
 ![November Calendar](November30.PNG)  
 
@@ -35,7 +35,7 @@ Eclipse wiki 网页 <a href="http://wiki.eclipse.org/Eclipse_DemoCamps_November_
 ## 武汉
 
 [DemoDay 武汉](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Wuhan) 是在
-是在武汉市东湖新技术开发区光谷大道金融港A3栋。 是[ 北京数字天堂信息科技有限责任公司广州分公司](http://www.funshion.com/)组织者的
+是在武汉市东湖新技术开发区光谷大道金融港A3栋。 是[北京风行在线技术有限公司](http://www.funshion.com/)组织者的
 
 [注册](https://yoopay.cn/event/48715193)
 
