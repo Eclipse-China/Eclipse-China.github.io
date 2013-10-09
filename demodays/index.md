@@ -28,9 +28,14 @@ Eclipse wiki 网页 <a href="http://wiki.eclipse.org/Eclipse_DemoCamps_November_
 
 ## 北京
 
-在北京11月14日还有[北京周四](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday) [注册](https://yoopay.cn/event/77839001)
+- 在北京11月14日还有[北京周四](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday)
+ 最多30个人，2个主题，交流
+ [注册](https://yoopay.cn/event/77839001)
 
-[DemoDay 北京](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing) 11月23日
+- [DemoDay 北京](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing) 11月30日周六
+ 比较大的活动，10多主题
+ [注册](https://yoopay.cn/event/76967677)
+
 
 ## 武汉
 
