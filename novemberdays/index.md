@@ -93,6 +93,11 @@ Eclipse MarketPlace installs 2013-08-22
 
 ![](../Pictures/Marketplace-installs-0822.PNG)
 
+Internet users map, 2010  [(source)](http://www.theatlantic.com/china/archive/2013/10/the-map-that-puts-chinas-incredible-internet-demographics-in-context/280514/) 
+
+![](../Pictures/internetpenetrationmap.jpg)
+
+TOP5 countries by Internet users, 2013
 
 ![](../Pictures/top5-internet-users_2013.png)
 
