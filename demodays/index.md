@@ -46,7 +46,8 @@ Eclipse wiki 网页 <a href="http://wiki.eclipse.org/Eclipse_DemoCamps_November_
 
 ## 长沙
 
-[DemoDay 长沙](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Changsha)
+[DemoDay 长沙](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Changsha)是在
+长沙市天心区劳动西路308号凯华大厦B栋1202室, 游龙科技 (陈轩 QQ 178114976)
 
 [注册](https://yoopay.cn/event/01780647)
 
