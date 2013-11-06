@@ -9,3 +9,7 @@
 Eclipse中国QQ群 321486747 
 
 [GitHub organization](https://github.com/Eclipse-China)
+
+### Developing
+
+> you can build your site using `jekyll build`, or preview your site using `jekyll serve`.
