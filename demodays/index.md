@@ -29,7 +29,7 @@ Eclipse wiki 网页 <a href="http://wiki.eclipse.org/Eclipse_DemoCamps_November_
 ## 北京
 
 - 在北京11月14日还有[北京周四](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing_Thursday)
- 最多30个人，2个主题，交流
+ 最多30个人，2个主题，交流. 地址：北京海淀区知春路6号锦秋国际大厦B座12层 - 阿凡达会议室　　
  [注册](https://yoopay.cn/event/77839001)
 
 - [DemoDay 北京](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing) 11月30日周六
