@@ -1,5 +1,5 @@
 ---
-layout: eclipse-china
+layout: eclipse-china-forum
 title: Eclipse 中国 讨论
 ---
 
