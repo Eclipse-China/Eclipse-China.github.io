@@ -34,9 +34,12 @@ Eclipse wiki 网页 <a href="http://wiki.eclipse.org/Eclipse_DemoCamps_November_
  最多30个人，2个主题，交流. 地址：北京海淀区知春路6号锦秋国际大厦B座12层 - 阿凡达会议室　　
  [注册](https://yoopay.cn/event/77839001)
 
-- [DemoDay 北京](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing) 12月12日周六
+- [DemoDay 北京](http://wiki.eclipse.org/Eclipse_DemoCamps_November_2013/Beijing) 12月14日周六
  比较大的活动，10多主题
  [注册](https://yoopay.cn/event/76967677)
+ 
+Tech Temple
+ 北京市东城区东四北大街107号天海商务大厦B座107
 
 
 ## 武汉
