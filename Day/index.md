@@ -75,6 +75,8 @@ See also [speakers](Speakers/).
 
 [Are now on separate page 现在在这里](materials)
 
+[Photos](Photos)
+
 ### In media 媒体
 
 #### Before
