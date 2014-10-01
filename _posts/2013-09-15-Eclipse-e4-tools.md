@@ -1,6 +1,6 @@
 ---
 layout: eclipse-china
-title: Installing Eclispe e4 Tools
+title: Installing Eclipse e4 Tools
 ---
 
 ## {{ page.title }}
