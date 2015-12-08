@@ -17,7 +17,8 @@ title: Eclipse-related Companies in China
 
 #### Chinese companies using Eclipse
 
-- [SiteView 北京游龙网网络科技](http://www.siteview.com) 
+- [SiteView 北京游龙网网络科技](http://www.siteview.com)
+- [Aurora IDE](http://aurora.hand-china.com/aurora_ide.screen) 
 
 
 ### Webmaster
